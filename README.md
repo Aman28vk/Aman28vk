@@ -31,6 +31,8 @@ A web application that brings banking-related news together in one place, making
 **Live Demo:** [Open Bank News Aggregator](https://aman28vk.github.io/Bank-News-Aggregator/)
 
 ### ✈️ 3. Aircraft Planner
+<img width="400" height="225" alt="brag" src="https://github.com/user-attachments/assets/b8a38218-1a6c-463a-bdc9-c0fb5c3a8a73" />
+
 
 A web-based aircraft planning application focused on organizing aircraft-related workflows and task management.
 
