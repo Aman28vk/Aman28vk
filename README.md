@@ -25,6 +25,8 @@ A web application for managing and tracking exam-related information.
 **Live Demo:** [Open Exam Tracker](https://exam-tracker-2.onrender.com/)
 
 ### 📰 2. Bank News Aggregator
+<img width="400" height="225" alt="brag (1)" src="https://github.com/user-attachments/assets/7d558780-2c1f-4272-9a5b-271c5710222a" />
+
 
 A web application that brings banking-related news together in one place, making relevant updates easier to access.
 
