@@ -37,6 +37,7 @@ A web application that brings banking-related news together in one place, making
 
 A web-based aircraft planning application focused on organizing aircraft-related workflows and task management.
 <img width="400" height="225" alt="brag" src="https://github.com/user-attachments/assets/b8a38218-1a6c-463a-bdc9-c0fb5c3a8a73" />
+
 **Live Demo:** [Open Aircraft Planner](https://aman28vk.github.io/Aircraft-Planner-Public/)
 
 ---
