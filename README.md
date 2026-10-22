@@ -25,19 +25,18 @@ A web application for managing and tracking exam-related information.
 **Live Demo:** [Open Exam Tracker](https://exam-tracker-2.onrender.com/)
 
 ### 📰 2. Bank News Aggregator
-<img width="400" height="225" alt="brag (1)" src="https://github.com/user-attachments/assets/7d558780-2c1f-4272-9a5b-271c5710222a" />
 
 
 A web application that brings banking-related news together in one place, making relevant updates easier to access.
+<img width="400" height="225" alt="brag (1)" src="https://github.com/user-attachments/assets/7d558780-2c1f-4272-9a5b-271c5710222a" />
 
 **Live Demo:** [Open Bank News Aggregator](https://aman28vk.github.io/Bank-News-Aggregator/)
 
 ### ✈️ 3. Aircraft Planner
-<img width="400" height="225" alt="brag" src="https://github.com/user-attachments/assets/b8a38218-1a6c-463a-bdc9-c0fb5c3a8a73" />
 
 
 A web-based aircraft planning application focused on organizing aircraft-related workflows and task management.
-
+<img width="400" height="225" alt="brag" src="https://github.com/user-attachments/assets/b8a38218-1a6c-463a-bdc9-c0fb5c3a8a73" />
 **Live Demo:** [Open Aircraft Planner](https://aman28vk.github.io/Aircraft-Planner-Public/)
 
 ---
